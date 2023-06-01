@@ -1,3 +1,7 @@
+a) librería servo.h
+Esta biblioteca permite el manejo de servomotores, la biblioteca Servo admite hasta
+12 motores en la mayoría de las placas Arduino y 48 en el Arduino Mega. 
+
 /*  
 onOffLeds();
 abrirPuerta();
