@@ -1,0 +1,17 @@
+/*  
+onOffLeds();
+abrirPuerta();
+delay(1000);
+cerrarPuerta();
+delay(1000);
+*/
+
+/*
+if (Serial.available()){
+dato=Serial.read();
+if (dato=='a')
+abrirPuerta();
+if(dato=='c')
+cerrarPuerta();  
+}
+*/

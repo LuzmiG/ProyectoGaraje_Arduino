@@ -1,0 +1,9 @@
+Arduino Mega 2560 - 
+Protobord
+Jumper Macho-Macho y Macho-Hembra
+Servo
+Modulo Bluethooth HC-05
+Servo SG90
+Resistencias 
+Led 
+
